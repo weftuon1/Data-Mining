@@ -4,3 +4,4 @@ Data Mining Projects for ECE 219 (Large-Scale Data Mining: Models and Algorithms
 - Project 1: End-to-End Pipeline to Classify News Articles
 - Project 2: Data Representations and Clustering
 - Project 3: Recommender Systems
+- Project 4: Regression Analysis and Twitter Data
